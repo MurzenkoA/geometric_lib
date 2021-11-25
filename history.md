@@ -28,4 +28,4 @@
 * git checkout main 
 * git merge release --ff 
 * git log --pretty=oneline --graph
-
+* git push origin1 main
